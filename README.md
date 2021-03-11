@@ -1,2 +1,2 @@
 # Huffman-Compression
-An simple implementation of Huffman algorithm to compress text.
+A simple implementation of Huffman algorithm to compress text.
